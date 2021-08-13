@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Rust and cloud-hypervisor
 - 📫 How to reach me ...
 ren.lei4@zte.com.cn
+renlei1998@163.com
 82862951@qq.com
 
 <!---
